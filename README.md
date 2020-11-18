@@ -7,9 +7,9 @@
 ## Tutorial Blog Posts On Medium
 
 
-- **Part I:** https://bit.ly/2IXMWdb
+- **Part I:** https://virtuonic.hashnode.com/
 
-- **Part II:** https://bit.ly/2P0c86Z
+- **Part II:** https://virtuonic.hashnode.com
 
 
 ## Development server
